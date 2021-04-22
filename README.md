@@ -1,2 +1,2 @@
-# face_recognition_system
-applied opencv to recognize employee face recognition system
+# open_cv_project
+Applied Open CV, Deep Learning And Python
